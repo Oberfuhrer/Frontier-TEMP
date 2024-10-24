@@ -935,6 +935,46 @@ entities:
     - type: Transform
       pos: 1.5,15.5
       parent: 1
+  - uid: 634
+    components:
+    - type: Transform
+      pos: 5.5,-2.5
+      parent: 1
+  - uid: 635
+    components:
+    - type: Transform
+      pos: -4.5,-2.5
+      parent: 1
+  - uid: 636
+    components:
+    - type: Transform
+      pos: -4.5,-3.5
+      parent: 1
+  - uid: 637
+    components:
+    - type: Transform
+      pos: -4.5,-4.5
+      parent: 1
+  - uid: 638
+    components:
+    - type: Transform
+      pos: 5.5,-7.5
+      parent: 1
+  - uid: 639
+    components:
+    - type: Transform
+      pos: 5.5,-8.5
+      parent: 1
+  - uid: 640
+    components:
+    - type: Transform
+      pos: -4.5,-7.5
+      parent: 1
+  - uid: 641
+    components:
+    - type: Transform
+      pos: -4.5,-8.5
+      parent: 1
 - proto: BedsheetBrown
   entities:
   - uid: 280
@@ -3103,7 +3143,7 @@ entities:
       pos: -0.5,-0.5
       parent: 1
     - type: Door
-      secondsUntilStateChange: -3387.7925
+      secondsUntilStateChange: -3709.3918
       state: Opening
 - proto: IngotGold1
   entities:
